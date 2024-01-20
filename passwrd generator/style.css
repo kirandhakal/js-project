@@ -1,0 +1,36 @@
+*{
+    margin: 0;padding: 0;
+}
+.main{
+    background-color: aqua;
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    color: white;
+    text-align: 0.8rem;
+    margin: 5px;
+    padding: 10px;
+    width: 350px;
+    background-color: black;
+
+}
+.btn{
+    margin: 4px;
+    width: 100%;
+    background-color: rgb(124, 124, 132);
+    padding: 2px;
+    border-radius: 3px;
+    height: 30px;
+    text-align: center;
+}
+#pass-box{
+    width: 90%;
+    height: 30px;
+    background-color: #a89f9f;
+margin: 5px;
+padding: 5px;
+}
