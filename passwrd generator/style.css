@@ -14,11 +14,11 @@
     text-align: 0.8rem;
     margin: 5px;
     padding: 10px;
-    width: 350px;
+    width: 500px;
     background-color: black;
 
 }
-.btn{
+#btn{
     margin: 4px;
     width: 100%;
     background-color: rgb(124, 124, 132);
@@ -27,10 +27,12 @@
     height: 30px;
     text-align: center;
 }
+
 #pass-box{
-    width: 90%;
+    width: auto;
     height: 30px;
     background-color: #a89f9f;
 margin: 5px;
 padding: 5px;
+font: 1rem;
 }
